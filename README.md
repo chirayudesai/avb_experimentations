@@ -9,3 +9,4 @@ The repo name, and the idea to have a list is totally copied from phh's https://
 
 # TODOs
 * Actually create and populate the list
+* Write a guide on the fastest way to check for and test this on any device.
